@@ -1,4 +1,4 @@
-#Implementing tinkercad simulation
+# Implementing tinkercad simulation
 
 
 A simple Arduino project that moves a servo motor when an object is detected within range
