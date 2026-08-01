@@ -14,6 +14,6 @@ components:
 Arduino Uno 
 HC-SR04 ultrasonic sensor
 Servo motor 
-Breadboard and jumper wires
+Breadboard and jumper wires.
 
 
